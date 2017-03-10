@@ -1,0 +1,22 @@
+.footer {
+  width: 100%; }
+
+.branding {
+  background-color: #202720;
+  width: 100%;
+  height: 2em;
+  font-size: 1em;
+  font-family: sans-serif;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 0 auto;
+  padding: 3px;
+  color: white;
+  z-index: 1; }
+  .branding a {
+    text-decoration: underline;
+    color: white; }
+
+/*# sourceMappingURL=branding.css.map */
